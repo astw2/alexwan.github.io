@@ -27,4 +27,5 @@ ul li a:hover {
 }
 div {
   word-wrap: break-word;
+  hyphens: auto;
 }
